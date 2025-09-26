@@ -36,5 +36,7 @@ DAX – measures and calculated fields
 
 CSV – dataset source
 
+Created by [JuherKhan] – feel free to connect on LinkedIn www.linkedin.com/in/juher-khan-127490338 or reach out for collaboration.
+
 📸 **Dashboard Preview**
 <img width="1331" height="747" alt="image" src="https://github.com/user-attachments/assets/aedc567e-de34-4b4e-ac16-4f3b274798a1" />
